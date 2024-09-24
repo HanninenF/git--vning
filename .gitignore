@@ -1,0 +1,12 @@
+# Ignorera loggfiler
+*.log
+
+# Ignorera IDE-specifika filer
+.vscode/
+.idea/
+
+# Ignorera temporära filer
+*.tmp
+
+# Ignorera alla filer i mappen /build/
+build/
